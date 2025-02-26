@@ -76,7 +76,8 @@ A simple web application that tracks and maps the location of an IP address usin
 ---
 
 ## **📷 Preview**
-![GeoIP-Mapper Preview](https://your-image-link.com) *(Optional: Add a screenshot of the app)*
+![image](https://github.com/user-attachments/assets/44c5a9ce-a4a3-47b1-92a4-de97df0a76fb)
+
 
 ---
 
@@ -84,10 +85,3 @@ A simple web application that tracks and maps the location of an IP address usin
 You'll need an **API key** from [IPify](https://geo.ipify.org/) to make requests. Replace `"YOUR_API_KEY"` in the code with your actual API key.
 
 ---
-
-You can save this as `README.md` in your project folder and push it to GitHub:  
-```sh
-git add README.md
-git commit -m "Added README with REST API details"
-git push origin main
-```
